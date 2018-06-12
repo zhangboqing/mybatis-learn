@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-learn" />
+        <module name="mybatis_01_helloworld" />
+        <module name="mybatis_02_config" />
+        <module name="mybatis_03_mapper" />
+        <module name="mybatis_04_dynamicsql" />
+        <module name="mybatis_05_cache" />
+        <module name="mybatis_06_ssm" />
+        <module name="mybatis_07_mbg" />
+        <module name="mybatis_08_source" />
+        <module name="mybatis_09_plugin" />
+        <module name="mybatis_10_other" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mybatis-learn" target="1.8" />
+      <module name="mybatis_01_helloworld" target="1.8" />
+      <module name="mybatis_02_config" target="1.8" />
+      <module name="mybatis_03_mapper" target="1.8" />
+      <module name="mybatis_04_dynamicsql" target="1.8" />
+      <module name="mybatis_05_cache" target="1.8" />
+      <module name="mybatis_06_ssm" target="1.8" />
+      <module name="mybatis_07_mbg" target="1.8" />
+      <module name="mybatis_08_source" target="1.8" />
+      <module name="mybatis_09_plugin" target="1.8" />
+      <module name="mybatis_10_other" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
